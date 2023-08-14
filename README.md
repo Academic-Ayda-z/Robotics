@@ -21,4 +21,7 @@
 
 ![image](https://github.com/Academic-Ayda-z/Robotics/assets/103877048/3a2841cc-788a-4291-a067-f084779e7393)
 
+![image](https://github.com/Academic-Ayda-z/Robotics/assets/103877048/e19f425a-9ff5-46de-9e7b-b1d3b89e6dad)
+
+
 https://github.com/Academic-Ayda-z/Robotics/blob/main/robotic%20report.pdf
